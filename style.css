@@ -27,3 +27,7 @@ main p {
   font-family: "Roboto", sans-serif;
   margin-top: 0;
 }
+
+.group img {
+  width: 100%;
+}
